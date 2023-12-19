@@ -4,8 +4,8 @@ Project 1 - Store Project:
 - Description: A project I coded by myself.
 - Technologies used: [vite ,npm, scss, vue.js  ]
 
-Project 2 - Group Resume Project:
-- Description: A collaborative project for creating a group resume.
+Project 2 - Teamwork:
+- Description: A group project - Personal Resume Website.
 - Technologies used: [vite ,npm, scss, vue.js  ]
 
 Project 3 - Clean Code of the Store Project:
