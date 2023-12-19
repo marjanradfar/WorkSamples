@@ -3,7 +3,7 @@ Projects done during internship
 Project 1 - Store Project:
 - Description: A project I coded by myself.
 - Technologies used: [vite ,npm, scss, vue.js  ]
--   ![Store Project Screenshot](relative/path/to/screenshot.png)
+![Alt Text](relative/path/to/ShopProject-myself/desk.png)
 
 Project 2 - Group Resume Project:
 - Description: A collaborative project for creating a group resume.
